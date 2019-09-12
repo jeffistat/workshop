@@ -1,7 +1,7 @@
 ---
 title: "git_01"
-author: "Math_116"
-date: "Fall semester"
+author: "Jeff Roderick"  
+date: "9-11-19"
 output: html_document
 ---
 
@@ -29,3 +29,13 @@ Be enterprising,
 
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
+The whiskey stink of rot has settled  
+in the garden, and a burst of fruit flies rises  
+when I touch the dying tomato plants.  
+Still, the claws of tiny yellow blossoms  
+flail in the air as I pull the vines up by the roots  
+and toss them in the compost.  
+It feels cruel. Something in me isn’t ready  
+to let go of summer so easily. To destroy  
+what I’ve carefully cultivated all these months.  
+
