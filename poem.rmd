@@ -21,6 +21,12 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
+The sea was wet as wet could be,  
+The sands were dry as dry.  
+You could not see a cloud, because  
+No cloud was in the sky:  
+No birds were flying overhead  
+There were no birds to fly.  
 
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
