@@ -11,6 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 # Build a Poem with commits to different branches
 Our project will be done using a sequence of save and commits and branch actions.
 <!-- Do not modify or change any text in "!--" bracketed areas such as this --- these are instructions to
+<<<<<<< HEAD
 you, if you change any of this the git program will notice it and compromise your git merging strategy !--> 
 
 ## First Verse 
@@ -21,8 +22,13 @@ Write well and neatly,
 And sing most sweetly,   
 Be enterprising,   
 
+
+    
+
+
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
+
 
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
