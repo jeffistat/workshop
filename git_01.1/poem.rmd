@@ -1,0 +1,67 @@
+---
+title: "git_01"
+author: "Jeff Roderick" 
+date: "Fall semester"
+output: html_document
+---
+  
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# Build a Poem with commits to different branches
+Our project will be done using a sequence of save and commits and branch actions.
+<!-- Do not modify or change any text in "!--" bracketed areas such as this --- these are instructions to
+<<<<<<< HEAD
+<<<<<<< HEAD
+you, if you change any of this the git program will notice it and compromise your git merging strategy !-->
+ 
+=======
+=======
+>>>>>>> firstlast
+you, if you change any of this the git program will notice it and compromise your git merging strategy !--> 
+
+>>>>>>> firstlast
+## First Verse 
+<!--Put the first five lines of a poem by Lewis Carrol in this section!-->
+Learn well your grammar,   
+And never stammar,   
+Write well and neatly,   
+And sing most sweetly,   
+Be enterprising,   
+
+
+    
+
+
+## Second Verse
+<!--Put the first five lines of a poem by Robert Frost here!-->
+Some say the world will end in fire,  
+Some say in ice.  
+From what I’ve tasted of desire  
+I hold with those who favor fire.  
+But if it had to perish twice,
+
+
+
+## Third Verse
+<!--Put the first two verses of The Walrus and the Carpenter here!-->
+The sea was wet as wet could be,  
+The sands were dry as dry.  
+You could not see a cloud, because  
+No cloud was in the sky:  
+No birds were flying overhead  
+There were no birds to fly.
+
+
+## Last Verse
+<!--Put a short poem of your choice 8-20 lines,here!-->
+The whiskey stink of rot has settled  
+in the garden, and a burst of fruit flies rises  
+when I touch the dying tomato plants.  
+Still, the claws of tiny yellow blossoms  
+flail in the air as I pull the vines up by the roots  
+and toss them in the compost.  
+It feels cruel. Something in me isn’t ready  
+to let go of summer so easily. To destroy  
+what I’ve carefully cultivated all these months.
+
